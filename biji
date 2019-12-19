@@ -9,3 +9,9 @@ golang地址
 https://github.com/golang/protobuf
 编译器
 https://github.com/protocolbuffers/protobuf/releases/tag/v3.9.0
+
+protobuf文档
+https://developers.google.com/protocol-buffers/docs/gotutorial
+
+插件
+github.com/golang/protobuf/protoc-gen-go
