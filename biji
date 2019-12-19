@@ -1,0 +1,11 @@
+关于golang中某些包无法下载的解决方法
+export GOPROXY=https://goproxy.io
+目前阿里云也开放了代理服务
+戳这里http://mirrors.aliyun.com/goproxy/
+export GOPROXY=https://mirrors.aliyun.com/goproxy/
+序列化数据结构协议
+https://github.com/protocolbuffers/protobuf
+golang地址
+https://github.com/golang/protobuf
+编译器
+https://github.com/protocolbuffers/protobuf/releases/tag/v3.9.0
