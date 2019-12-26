@@ -73,4 +73,21 @@ consul文档
 https://github.com/hashicorp/consul/tree/master/api
 
 
+熔断
+hystrix-go
+github.com/afex/hystrix-go
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
