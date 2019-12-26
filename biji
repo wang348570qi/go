@@ -1,5 +1,6 @@
 关于golang中某些包无法下载的解决方法
 export GOPROXY=https://goproxy.io
+export GO111MODULE=on
 目前阿里云也开放了代理服务
 戳这里http://mirrors.aliyun.com/goproxy/
 export GOPROXY=https://mirrors.aliyun.com/goproxy/
@@ -81,7 +82,8 @@ jwt
 
 github.com/dgrijalva/jwt-go
 
-
+go-micro框架
+github.com/micro/go-micro
 
 
 
